@@ -42,5 +42,13 @@
       "AAPL": 120.53,
       "AMZN": 654.87
     }
-  ]  
+  ]
+  "asset":
+  {
+    "Saving": 0.30,
+    "Stock": 0.20,
+    "Mutual Fund": 0.30,
+    "cryptocurrency" : 0.15,
+    "Bond": 0.05,
+  }
 }
