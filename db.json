@@ -199,7 +199,7 @@
     "Mutual Fund": 0.30,
     "cryptocurrency" : 0.15,
     "Bond": 0.05
-  }
+  },
   "balance": {
     "rateOfReturn": 0.21,
     "currentBalance": 31400.47,
